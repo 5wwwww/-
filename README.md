@@ -7,4 +7,4 @@ def getHtml(url):
     html=page.read()
     return html
 
-getHtml("http://www.icoolxue.com/play/1945")
+getHtml("http://cd.qq.com/a/20160624/009454.htm?pgv_ref=aio2015&ptlang=2052")
